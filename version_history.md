@@ -1,5 +1,8 @@
 # Version History
 
+## 2.6.18
+- Fixed canvas flickering by disabling low-latency mode by default
+
 ## 2.6.17
 - Fixed broken collision on interiors generated with csx3dif and io_dif (Blender)
 
